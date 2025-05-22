@@ -1,13 +1,14 @@
+package Array;
+
+import java.util.Arrays;
 /*
+Leetcode link : https://leetcode.com/problems/rotate-array/
+
 Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
 Example 1:
 Input: nums = [1,2,3,4,5,6,7], k = 3
 Output: [5,6,7,1,2,3,4]
 */
-package Array;
-
-import java.util.Arrays;
-
 public class RotateArray {
     public static void main(String[] args){
         int[] nums = {1,2,3,4,5,6,7};
