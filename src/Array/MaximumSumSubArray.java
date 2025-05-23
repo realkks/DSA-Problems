@@ -11,7 +11,7 @@ Explanation: The subarray [4,-1,2,1] has the largest sum 6.
  */
 
 // Note:  using brute force, just find sum of each subarray and if greater than max, update max.
-public class Maximum_SubArray {
+public class MaximumSumSubArray {
     public static void main(String[] args) {
         int[] nums = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
         int ans = maxSubArray(nums);
