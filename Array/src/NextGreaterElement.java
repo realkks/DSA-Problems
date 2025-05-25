@@ -1,4 +1,3 @@
-package Array;
 /*
 Problem: Given an array arr[] of integers, the task is to find the Next Greater Element in the right side of each
 element of the array.

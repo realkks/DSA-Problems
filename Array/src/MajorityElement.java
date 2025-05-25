@@ -1,4 +1,3 @@
-package Array;
 /*
 Leetcode question link : https://leetcode.com/problems/majority-element/
 

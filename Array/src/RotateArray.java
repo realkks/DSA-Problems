@@ -1,5 +1,3 @@
-package Array;
-
 import java.util.Arrays;
 /*
 Leetcode link : https://leetcode.com/problems/rotate-array/
