@@ -1,1 +1,2 @@
 This project is created to maintain all the solved DSA problems and can be able to revise them easily.
+It contains problems of Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming, and many more.
